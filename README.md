@@ -1,5 +1,5 @@
 # PEPETUBE
-PEPETUBE Is a clone of youtube but PEPE the meme. It's pepe themed youtube.\
+PEPETUBE Is a clone of youtube but PEPE the meme. **It's pepe themed youtube.**\
 ~~I dont have much to say~~
 
 # Installation 
